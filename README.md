@@ -1,7 +1,5 @@
 # Hi, I'm Seoyeong Hwang 👋
 
-**데이터로 문제를 정의하고 서비스로 해결책을 구현합니다.**
-
 데이터 분석을 기반으로 문제의 구조를 파악하고  
 사용자 관점의 서비스 기획부터 Backend 구현까지 연결하는 프로젝트를 수행해왔습니다.
 
@@ -35,4 +33,4 @@
 ### 🤝 Product & Collaboration
 ![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white
+![Slack](https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=slack&logoColor=white)
