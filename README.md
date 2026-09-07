@@ -1,8 +1,4 @@
-<div align="center">
-
 # Hi, I'm Seoyeong Hwang 👋
-
-### Product Plan · Data Analysis · Backend Develop
 
 **데이터로 문제를 정의하고 서비스로 해결책을 구현합니다.**
 
@@ -15,7 +11,7 @@
 |---|---|
 | 💊 **Bokja**<br>AI 기반 고령자 복약 자립 플랫폼<br>`PM` `Backend` `LLM` | 🐾 **Pet-Friendly Tourism**<br>펫팸족 지역 체류·소비 증진 전략<br>🏆 **공모전 대상 · 133팀 중 1위** |
 | 🧠 **MindTune**<br>사용자 문제 기반 서비스 기획·개발<br>`PM` `Service Design` | 📦 **E-commerce Logistics**<br>Olist 풀필먼트 입지·수요예측<br>📑 **통계기술정보연구소 학술지 게재** |
-| 🏪 **Market Cloud**<br>생성형 AI 전통시장 추천 플랫폼<br>`PM` `Backend` `AI`**K-HTML 해커톤 본선진출** | 🏡 **Rural Housing Matching**<br>귀농인 유형별 빈집 추천<br>`K-means` `AHP` `TOPSIS` |
+| 🏪 **Market Cloud**<br>생성형 AI 전통시장 추천 플랫폼<br>`PM` `DA` `AI`<br>🏆**K-HTML 해커톤 본선진출** | 🏡 **Rural Housing Matching**<br>귀농인 유형별 빈집 추천<br>`K-means` `AHP` `TOPSIS` |
 
 ## 🛠 Tech Stack
 
